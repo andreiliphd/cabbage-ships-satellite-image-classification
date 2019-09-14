@@ -1,7 +1,7 @@
-# Cabbage - satellite images classification in Jave using deeplearning4j library
+# Cabbage - satellite images classification in Java using deeplearning4j library
 ============
 
-Cabbage recongnizes satellite images of ships. Project is mage using deeplearning4j library. I extensively used [deeplearning4J examples](https://github.com/eclipse/deeplearning4j-examples/blob/master/dl4j-examples/src/main/java/org/deeplearning4j/examples/convolution/AnimalsClassification.java). I also used Kaggle dataset from [Kaggle](https://www.kaggle.com/rhammell/ships-in-satellite-imagery)
+Cabbage recongnizes satellite images of ships. Project is made using deeplearning4j library. I extensively used [deeplearning4J examples](https://github.com/eclipse/deeplearning4j-examples/blob/master/dl4j-examples/src/main/java/org/deeplearning4j/examples/convolution/AnimalsClassification.java). I also used Kaggle dataset from [Kaggle](https://www.kaggle.com/rhammell/ships-in-satellite-imagery)
 
 ---
 
